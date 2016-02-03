@@ -3,6 +3,8 @@
 
 ///Bar\\\
 Length=5'
+Thickness= 1.5"
+Width=2"
 
 ///Body\\\
 Hexagon of radius at the bottom of 1'3"
