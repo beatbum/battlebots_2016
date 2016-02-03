@@ -1,0 +1,15 @@
+//////////Dimensions for our Battlebots 2016 submission\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+///Bar\\\
+Length=5'
+
+///Body\\\
+Hexagon of radius at the bottom of 1'3"
+Angle between the bottom face of the body and the each face of the body=60degrees
+Height from chassis bottom to bottom of the bar=7"
+Total height=12"
+
+///Wheels\\\
+Radius=3"
+We agreed on solid core wheels like on wheelbarrows
